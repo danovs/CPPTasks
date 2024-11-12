@@ -1,0 +1,3 @@
+﻿  FindEArrayServer.cpp
+C:\Users\217562\Desktop\CPPTasks\FindEArrayServer\FindEArrayServer\FindEArrayServer.cpp(19,53): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  FindEArrayServer.vcxproj -> C:\Users\217562\Desktop\CPPTasks\FindEArrayServer\x64\Debug\FindEArrayServer.exe

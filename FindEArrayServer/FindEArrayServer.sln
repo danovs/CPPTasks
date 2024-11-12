@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindEArrayServer", "FindEArrayServer\FindEArrayServer.vcxproj", "{5591C71D-A3EF-4667-9E88-286BCEED1C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5591C71D-A3EF-4667-9E88-286BCEED1C85}.Debug|x64.ActiveCfg = Debug|x64
+		{5591C71D-A3EF-4667-9E88-286BCEED1C85}.Debug|x64.Build.0 = Debug|x64
+		{5591C71D-A3EF-4667-9E88-286BCEED1C85}.Debug|x86.ActiveCfg = Debug|Win32
+		{5591C71D-A3EF-4667-9E88-286BCEED1C85}.Debug|x86.Build.0 = Debug|Win32
+		{5591C71D-A3EF-4667-9E88-286BCEED1C85}.Release|x64.ActiveCfg = Release|x64
+		{5591C71D-A3EF-4667-9E88-286BCEED1C85}.Release|x64.Build.0 = Release|x64
+		{5591C71D-A3EF-4667-9E88-286BCEED1C85}.Release|x86.ActiveCfg = Release|Win32
+		{5591C71D-A3EF-4667-9E88-286BCEED1C85}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {385D57F2-4B9A-4151-9FC6-67F2E23FA088}
+	EndGlobalSection
+EndGlobal
